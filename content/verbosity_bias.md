@@ -7,7 +7,7 @@ tags = ["rlhf"]
 categories = ["paper reading"]
 +++
 
-This paper examines the biases that come along with evaluating LLMs with other LLMs and takes a closer a closer look into verbosity bias.
+This paper examines the biases that come along with evaluating LLMs with GPT-4 and takes a closer look into verbosity bias.
 
 <!-- more -->
 
