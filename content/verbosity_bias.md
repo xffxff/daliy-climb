@@ -7,8 +7,9 @@ tags = ["rlhf"]
 categories = ["paper reading"]
 +++
 
-## Introduction
 This paper examines the biases that come along with evaluating LLMs with other LLMs and takes a closer a closer look into verbosity bias.
+
+<!-- more -->
 
 ## Contributions or Findings (Notable to Me)
 - Summarized the bias disscussed in various papers
