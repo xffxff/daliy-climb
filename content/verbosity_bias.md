@@ -7,6 +7,9 @@ tags = ["rlhf"]
 categories = ["paper reading"]
 +++
 
+[https://arxiv.org/pdf/2310.10076.pdf](https://arxiv.org/pdf/2310.10076.pdf)
+
+
 This paper examines the biases that come along with evaluating LLMs with GPT-4 and takes a closer look into verbosity bias.
 
 <!-- more -->
